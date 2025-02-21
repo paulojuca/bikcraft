@@ -1,0 +1,12 @@
+@import "./global/global.css";
+@import "./global/header.css";
+
+/*Utilidades*/
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+
+/*Home*/
+@import "./global/home/introducao.css";
+@import "./bicicletas/bicicletas-lista.css";
+@import "./global/home/tecnologia.css";
